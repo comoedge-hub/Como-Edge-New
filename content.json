@@ -1,0 +1,5495 @@
+{
+  "brand": {
+    "logo": "assets/logo.png",
+    "banner": "assets/banner.jpg"
+  },
+  "notifications": [
+    {
+      "id": "n1",
+      "title": "Write notification title here",
+      "date": "16 Sep 2026",
+      "type": "text",
+      "content": "Write the notification text here."
+    }
+  ],
+  "exams": [
+    {
+      "id": "wbpsc",
+      "name": "WBPSC",
+      "full": "West Bengal Public Service Commission",
+      "color": "#3B82F6",
+      "syllabus": "",
+      "overview": {
+        "posts": "Various",
+        "vacancies": "As per notification",
+        "qualification": "As per post",
+        "selection": "Prelims / Mains / Interview"
+      },
+      "subjects": {
+        "gs": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "math": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "eng": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "ben": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "polity": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "economy": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "history": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "geo": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "sci": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "computer": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "ca": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "reasoning": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "gk": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "wbp",
+      "name": "WBP",
+      "full": "West Bengal Police",
+      "color": "#EF4444",
+      "syllabus": "",
+      "overview": {
+        "posts": "Various",
+        "vacancies": "As per notification",
+        "qualification": "As per post",
+        "selection": "Prelims / Mains / Interview"
+      },
+      "subjects": {
+        "gs": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "math": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "eng": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "ben": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "polity": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "economy": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "history": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "geo": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "sci": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "computer": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "ca": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "reasoning": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "gk": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "kp",
+      "name": "KP",
+      "full": "Kolkata Police",
+      "color": "#8B5CF6",
+      "syllabus": "",
+      "overview": {
+        "posts": "Various",
+        "vacancies": "As per notification",
+        "qualification": "As per post",
+        "selection": "Prelims / Mains / Interview"
+      },
+      "subjects": {
+        "gs": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "math": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "eng": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "ben": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "polity": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "economy": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "history": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "geo": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "sci": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "computer": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "ca": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "reasoning": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "gk": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "ssc",
+      "name": "SSC",
+      "full": "Staff Selection Commission",
+      "color": "#10B981",
+      "syllabus": "",
+      "overview": {
+        "posts": "Various",
+        "vacancies": "As per notification",
+        "qualification": "As per post",
+        "selection": "Prelims / Mains / Interview"
+      },
+      "subjects": {
+        "gs": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "math": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "eng": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "ben": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "polity": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "economy": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "history": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "geo": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "sci": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "computer": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "ca": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "reasoning": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "gk": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "railway",
+      "name": "RAILWAY",
+      "full": "Railway Recruitment",
+      "color": "#F97316",
+      "syllabus": "",
+      "overview": {
+        "posts": "Various",
+        "vacancies": "As per notification",
+        "qualification": "As per post",
+        "selection": "Prelims / Mains / Interview"
+      },
+      "subjects": {
+        "gs": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "math": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "eng": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "ben": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "polity": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "economy": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "history": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "geo": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "sci": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "computer": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "ca": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "reasoning": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "gk": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "wbssc",
+      "name": "WB SSC",
+      "full": "West Bengal School Service Commission",
+      "color": "#06B6D4",
+      "syllabus": "",
+      "overview": {
+        "posts": "Various",
+        "vacancies": "As per notification",
+        "qualification": "As per post",
+        "selection": "Prelims / Mains / Interview"
+      },
+      "subjects": {
+        "gs": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "math": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "eng": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "ben": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "polity": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "economy": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "history": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "geo": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "sci": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "computer": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "ca": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "reasoning": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "gk": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "panchayat",
+      "name": "PONCHAYET",
+      "full": "Panchayat Recruitment",
+      "color": "#EC4899",
+      "syllabus": "",
+      "overview": {
+        "posts": "Various",
+        "vacancies": "As per notification",
+        "qualification": "As per post",
+        "selection": "Prelims / Mains / Interview"
+      },
+      "subjects": {
+        "gs": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "math": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "eng": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "ben": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "polity": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "economy": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "history": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "geo": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "sci": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "computer": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "ca": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "reasoning": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "gk": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "banking",
+      "name": "BANKING",
+      "full": "Banking Sector Exams",
+      "color": "#EAB308",
+      "syllabus": "",
+      "overview": {
+        "posts": "Various",
+        "vacancies": "As per notification",
+        "qualification": "As per post",
+        "selection": "Prelims / Mains / Interview"
+      },
+      "subjects": {
+        "gs": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "math": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "eng": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "ben": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "polity": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "economy": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "history": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "geo": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "sci": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "computer": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "ca": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "reasoning": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "gk": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "rrb",
+      "name": "RRB",
+      "full": "Railway Recruitment Board",
+      "color": "#14B8A6",
+      "syllabus": "",
+      "overview": {
+        "posts": "Various",
+        "vacancies": "As per notification",
+        "qualification": "As per post",
+        "selection": "Prelims / Mains / Interview"
+      },
+      "subjects": {
+        "gs": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "math": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "eng": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "ben": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "polity": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "economy": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "history": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "geo": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "sci": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "computer": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "ca": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "reasoning": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "gk": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "sebi",
+      "name": "SEBI",
+      "full": "Securities and Exchange Board of India",
+      "color": "#6366F1",
+      "syllabus": "",
+      "overview": {
+        "posts": "Various",
+        "vacancies": "As per notification",
+        "qualification": "As per post",
+        "selection": "Prelims / Mains / Interview"
+      },
+      "subjects": {
+        "gs": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "math": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "eng": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "ben": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "polity": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "economy": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "history": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "geo": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "sci": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "computer": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "ca": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "reasoning": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "gk": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "other",
+      "name": "AND OTHER JOBS",
+      "full": "Other Government Jobs",
+      "color": "#64748B",
+      "syllabus": "",
+      "overview": {
+        "posts": "Various",
+        "vacancies": "As per notification",
+        "qualification": "As per post",
+        "selection": "Prelims / Mains / Interview"
+      },
+      "subjects": {
+        "gs": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "math": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "eng": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "ben": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "polity": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "economy": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "history": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "geo": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "sci": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "computer": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "ca": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "reasoning": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        },
+        "gk": {
+          "videos": [
+            {
+              "t": "Write video name here",
+              "d": "00:00",
+              "link": ""
+            }
+          ],
+          "notes": [
+            {
+              "t": "Write note name here",
+              "p": "0 pages",
+              "link": ""
+            }
+          ],
+          "practice": [
+            {
+              "t": "Practice Set 1",
+              "questions": []
+            }
+          ],
+          "charts": [
+            {
+              "t": "Write chart name here",
+              "link": ""
+            }
+          ],
+          "mock": [
+            {
+              "t": "Mock Test 1",
+              "q": 20,
+              "min": 20,
+              "link": "",
+              "questions": []
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "questionBank": [
+    {
+      "q": "The Indian Constitution came into effect on which date?",
+      "opts": [
+        "15 August 1947",
+        "26 January 1950",
+        "26 November 1949",
+        "2 October 1950"
+      ],
+      "ans": 1
+    },
+    {
+      "q": "Which is the longest river in West Bengal?",
+      "opts": [
+        "Damodar",
+        "Teesta",
+        "Ganga (Hooghly)",
+        "Ajay"
+      ],
+      "ans": 2
+    }
+  ]
+}

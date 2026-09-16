@@ -6,10 +6,10 @@
   "notifications": [
     {
       "id": "n1",
-      "title": "Write notification title here",
+      "title": "WB Gram Ponchayet Recruitment 2026 Marks Distribution",
       "date": "16 Sep 2026",
-      "type": "text",
-      "content": "Write the notification text here."
+      "type": "pdf",
+      "content": "https://drive.google.com/file/d/1RpXgBNY8xCzq_p10p3yonfd1ElgsOpbi/view?usp=drivesdk"
     }
   ],
   "exams": [

@@ -129,10 +129,10 @@
           ],
           "mock": [
             {
-              "t": "Mock Test 1",
-              "q": 20,
-              "min": 20,
-              "link": "",
+              "t": "Mock Test 1 Eng Grammar",
+              "q": 50,
+              "min": 30,
+              "link": "https://share.gemini.google/EpBzwQcgcqZy",
               "questions": []
             }
           ]

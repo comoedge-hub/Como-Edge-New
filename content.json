@@ -130,9 +130,9 @@
           "mock": [
             {
               "t": "Mock Test 1 Eng Grammar",
-              "q": 50,
-              "min": 30,
-              "link": "https://share.gemini.google/EpBzwQcgcqZy",
+              "q": ,
+              "min": ,
+              "link": "",
               "questions": []
             }
           ]
@@ -3426,8 +3426,10 @@
           ],
           "practice": [
             {
-              "t": "Practice Set 1",
-              "questions": []
+              "t": "Alphabet Test Practice Set 1",
+              "link": "https://drive.google.com/file/d/1JHVfUrokziadJ1RkLx6aw2iie4zGOzDh/view?usp=drivesdk"
+              "t": "Coding Decoding Practice Set 1",
+              "link": "https://drive.google.com/file/d/1_ktViJLzGOzAZZUJCnlBSEjYff2gofjM/view?usp=drivesdk"
             }
           ],
           "charts": [
